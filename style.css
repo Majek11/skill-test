@@ -557,7 +557,9 @@ html {
   }
 
   .copy {
-    right: 5%;
+    right: 15%;
+    top: 70%;
+    font-size: 90%;
   }
 
   .copy img {
