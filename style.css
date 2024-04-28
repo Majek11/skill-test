@@ -434,27 +434,7 @@ html {
     font-size: 1.8rem;
   }
 
-  .climb-text {
-    font-size: 1.6rem;
-  }
-  .climb img {
-    height: 10rem;
-    width: 20rem;
-  }
 
-  .climb-text-container {
-    position: relative;
-    left: 5%;
-
-  }
-
-  .climb-text {
-    width: 52%;
-    position: absolute;
-    left: 40%;
-    right: 0;
-    top: 0;
-  }
 
   .section-3 {
     height: 90vh;
@@ -504,6 +484,29 @@ html {
 
   .climb img {
     margin-top: 2rem;
+  }
+
+  .climb-text {
+    font-size: 1.6rem;
+  }
+  .climb img {
+    height: 10rem;
+    width: 20rem;
+  }
+
+  .climb-text-container {
+    position: relative;
+    left: 5%;
+    margin-top: 6rem ;
+    margin-bottom: 6rem;
+  }
+
+  .climb-text {
+    width: 52%;
+    position: absolute;
+    left: 40%;
+    right: 0;
+    top: 0;
   }
 
   .logo {
